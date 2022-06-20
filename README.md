@@ -2,6 +2,10 @@
 
 A quick start Vue project that shows how to add a Vue Financial Chart component of Syncfusion to a Vue project. This project also includes a code snippet to set series types in charts and add crosshair, and tooltips. 
 
+Example: https://ej2.syncfusion.com/vue/demos/#/material/chart/hilo.html
+
+Documentation: https://ej2.syncfusion.com/vue/documentation/chart/financial-types/
+
 
 ## Project pre-requisites
 
