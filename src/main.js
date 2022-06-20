@@ -1,0 +1,11 @@
+import Vue from 'vue'
+import App from './App.vue'
+import { registerLicense } from '@syncfusion/ej2-base'
+
+registerLicense("ORg4AjUWIQA/Gnt2VVhhQlFac1pJWnxAYVF2R2FJeVRycl9FYEwgOX1dQl9hSXhTf0RjWX5dcHddTmg=");
+
+Vue.config.productionTip = false
+
+new Vue({
+  render: h => h(App),
+}).$mount('#app')
